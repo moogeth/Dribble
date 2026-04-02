@@ -279,13 +279,17 @@ home.html
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/7c99c16c-7409-42b9-be37-0fab82873331" />
+
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/7b600f1d-0eda-4a4c-8d7a-0149154ab508" />
 
 
-![alt text](image-1.png)
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/ba276b72-4896-40b3-81eb-c750440bb0d6" />
 
 
-![alt text](image-2.png)
+
+
 
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
